@@ -1,0 +1,36 @@
+body{
+    background-color: navy;
+    text-align: left;
+}
+
+p{
+    text-align: left;
+}
+
+h3{
+    color:aquamarine
+}
+
+h2{
+    color:antiquewhite
+
+}
+
+h1{
+    color:blue
+}
+
+img{
+    width: 150px;
+    height: 150px
+}
+
+li{
+    transition: 0.3
+
+}
+
+li:hover{
+    color:orangered;
+    font-size: 30px;
+}
